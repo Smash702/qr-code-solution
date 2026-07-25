@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   the design consists of a QR code, info an the QR code, and instructions to scan the code. THis is my first project and I'm kinda new to this so I'm honestly not sure how good it is. But I tried getting it as close to the original design. though I'm not too sure about the mobile version
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Smash702/qr-code-solution)
-- Live Site URL: [Add live site URL here]( https://smash702.github.io/qr-code-solution/)
+- Solution URL: [solution URL here](https://github.com/Smash702/qr-code-solution)
+- Live Site URL: [live site URL here]( https://smash702.github.io/qr-code-solution/)
 
 ## My process
   I created and arranged the elements with html and then styled it one by one with css till I got as similar to the design reference as I could
